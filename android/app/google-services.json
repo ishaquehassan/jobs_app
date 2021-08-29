@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545134318077",
+    "project_id": "jobsappflutterbootcamp2021aug",
+    "storage_bucket": "jobsappflutterbootcamp2021aug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545134318077:android:9f990949c688bee0cdc994",
+        "android_client_info": {
+          "package_name": "com.example.jobs_ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545134318077-gjeb9t77g3t7tk49oic3ugjknnibjef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZWo61-P1MlMThvhSXFvbmCWtekp9zd2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545134318077-gjeb9t77g3t7tk49oic3ugjknnibjef9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
